@@ -11,15 +11,14 @@
 👋 Hi there! Welcome to My Profile! I am a JavaScript Pro Developer with 5+ years of Development Experience in JavaScript Applications: My main focus is web development using React.js, Next.js, Typescript, and Node.js.
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" height="300" width="600" />
-
-## 😄Pronouns: He/Him
+<br>
 
 What can I do for you? Develop a custom solution for your business.Both Front-End and Back-End development. 
 Here are some projects from my portfolio:
 • An NFT Marketplace connecting crypto sellers with buyers.
 • An automotive application enabling sellers to sell cars, with nearly 100,000 monthly users.
 • AI automation utilizing the GPT-4 model to generate images of creators based on prompts.
-
+<br>
 ## 🌐 Socials:
 
 [![Upwork](https://img.shields.io/badge/upwork-%2230175C2.svg?logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/~01b8262a0ffa2f4860)
