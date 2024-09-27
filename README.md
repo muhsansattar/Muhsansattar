@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 
-👋 Hi there! Welcome to My Profile! I am a JavaScript Pro Developer with 5+ years of Development Experience in JavaScript Applications: My main focus is web development using React.js, Next.js, Typescript, and Node.js.
+👋 Hi there! Welcome to My Profile! I am a JavaScript Pro Developer with 6+ years of Development Experience in JavaScript Applications: My main focus is web development using React.js, Next.js, Typescript, and Node.js.
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" height="300" width="600" />
 <br>
